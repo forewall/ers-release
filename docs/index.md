@@ -5,7 +5,7 @@ title: ERS Agent Downloads
 
 # ERS Agent Downloads
 
-Latest version: v1.0.3a (Released on 2025-05-18)
+Latest version: v1.0.4 (Released on 2025-05-18)
 
 ## Download ERS Agent for your platform
 
@@ -13,25 +13,25 @@ Latest version: v1.0.3a (Released on 2025-05-18)
 
 | Architecture | Download | Checksum | Size | Notes |
 |-------------|----------|----------|------|-------|
-| Windows x64 | [ers-agent-windows-amd64.exe](https://github.com/forewall/ers-release/releases/download/v1.0.3a/ers-agent-windows-amd64.exe) | [SHA256](https://github.com/forewall/ers-release/releases/download/v1.0.3a/ers-agent-windows-amd64.exe.sha256) | ~7MB | UPX compressed |
-| Windows x86 | [ers-agent-windows-386.exe](https://github.com/forewall/ers-release/releases/download/v1.0.3a/ers-agent-windows-386.exe) | [SHA256](https://github.com/forewall/ers-release/releases/download/v1.0.3a/ers-agent-windows-386.exe.sha256) | ~6MB | UPX compressed |
-| Windows ARM64 | [ers-agent-windows-arm64.exe](https://github.com/forewall/ers-release/releases/download/v1.0.3a/ers-agent-windows-arm64.exe) | [SHA256](https://github.com/forewall/ers-release/releases/download/v1.0.3a/ers-agent-windows-arm64.exe.sha256) | ~12MB | Standard build |
+| Windows x64 | [ers-agent-windows-amd64.exe](https://github.com/forewall/ers-release/releases/download/v1.0.4/ers-agent-windows-amd64.exe) | [SHA256](https://github.com/forewall/ers-release/releases/download/v1.0.4/ers-agent-windows-amd64.exe.sha256) | ~7MB | UPX compressed |
+| Windows x86 | [ers-agent-windows-386.exe](https://github.com/forewall/ers-release/releases/download/v1.0.4/ers-agent-windows-386.exe) | [SHA256](https://github.com/forewall/ers-release/releases/download/v1.0.4/ers-agent-windows-386.exe.sha256) | ~6MB | UPX compressed |
+| Windows ARM64 | [ers-agent-windows-arm64.exe](https://github.com/forewall/ers-release/releases/download/v1.0.4/ers-agent-windows-arm64.exe) | [SHA256](https://github.com/forewall/ers-release/releases/download/v1.0.4/ers-agent-windows-arm64.exe.sha256) | ~12MB | Standard build |
 
 ### Linux
 
 | Architecture | Download | Checksum | Size | Notes |
 |-------------|----------|----------|------|-------|
-| Linux x64 | [ers-agent-linux-amd64](https://github.com/forewall/ers-release/releases/download/v1.0.3a/ers-agent-linux-amd64) | [SHA256](https://github.com/forewall/ers-release/releases/download/v1.0.3a/ers-agent-linux-amd64.sha256) | ~7MB | UPX compressed |
-| Linux x86 | [ers-agent-linux-386](https://github.com/forewall/ers-release/releases/download/v1.0.3a/ers-agent-linux-386) | [SHA256](https://github.com/forewall/ers-release/releases/download/v1.0.3a/ers-agent-linux-386.sha256) | ~6MB | UPX compressed |
-| Linux ARM64 | [ers-agent-linux-arm64](https://github.com/forewall/ers-release/releases/download/v1.0.3a/ers-agent-linux-arm64) | [SHA256](https://github.com/forewall/ers-release/releases/download/v1.0.3a/ers-agent-linux-arm64.sha256) | ~12MB | Standard build |
-| Linux ARM | [ers-agent-linux-arm](https://github.com/forewall/ers-release/releases/download/v1.0.3a/ers-agent-linux-arm) | [SHA256](https://github.com/forewall/ers-release/releases/download/v1.0.3a/ers-agent-linux-arm.sha256) | ~11MB | Standard build |
+| Linux x64 | [ers-agent-linux-amd64](https://github.com/forewall/ers-release/releases/download/v1.0.4/ers-agent-linux-amd64) | [SHA256](https://github.com/forewall/ers-release/releases/download/v1.0.4/ers-agent-linux-amd64.sha256) | ~7MB | UPX compressed |
+| Linux x86 | [ers-agent-linux-386](https://github.com/forewall/ers-release/releases/download/v1.0.4/ers-agent-linux-386) | [SHA256](https://github.com/forewall/ers-release/releases/download/v1.0.4/ers-agent-linux-386.sha256) | ~6MB | UPX compressed |
+| Linux ARM64 | [ers-agent-linux-arm64](https://github.com/forewall/ers-release/releases/download/v1.0.4/ers-agent-linux-arm64) | [SHA256](https://github.com/forewall/ers-release/releases/download/v1.0.4/ers-agent-linux-arm64.sha256) | ~12MB | Standard build |
+| Linux ARM | [ers-agent-linux-arm](https://github.com/forewall/ers-release/releases/download/v1.0.4/ers-agent-linux-arm) | [SHA256](https://github.com/forewall/ers-release/releases/download/v1.0.4/ers-agent-linux-arm.sha256) | ~11MB | Standard build |
 
 ### macOS
 
 | Architecture | Download | Checksum | Size | Notes |
 |-------------|----------|----------|------|-------|
-| macOS Intel | [ers-agent-darwin-amd64](https://github.com/forewall/ers-release/releases/download/v1.0.3a/ers-agent-darwin-amd64) | [SHA256](https://github.com/forewall/ers-release/releases/download/v1.0.3a/ers-agent-darwin-amd64.sha256) | ~13MB | Standard build |
-| macOS Apple Silicon | [ers-agent-darwin-arm64](https://github.com/forewall/ers-release/releases/download/v1.0.3a/ers-agent-darwin-arm64) | [SHA256](https://github.com/forewall/ers-release/releases/download/v1.0.3a/ers-agent-darwin-arm64.sha256) | ~12MB | Standard build |
+| macOS Intel | [ers-agent-darwin-amd64](https://github.com/forewall/ers-release/releases/download/v1.0.4/ers-agent-darwin-amd64) | [SHA256](https://github.com/forewall/ers-release/releases/download/v1.0.4/ers-agent-darwin-amd64.sha256) | ~13MB | Standard build |
+| macOS Apple Silicon | [ers-agent-darwin-arm64](https://github.com/forewall/ers-release/releases/download/v1.0.4/ers-agent-darwin-arm64) | [SHA256](https://github.com/forewall/ers-release/releases/download/v1.0.4/ers-agent-darwin-arm64.sha256) | ~12MB | Standard build |
 
 > **Note about UPX compression**: Some binaries are compressed with UPX to reduce file size (up to 50% smaller). This provides faster downloads but doesn't affect performance. The executable decompresses automatically at runtime.
 
@@ -152,7 +152,7 @@ Visit the [Releases page](https://github.com/forewall/ers-release/releases) to d
 
 ## Release Notes
 
-## ERS Agent v1.0.3a
+## ERS Agent v1.0.4
 
 Released on 2025-05-18
 
@@ -162,6 +162,8 @@ Released on 2025-05-18
 
 ### ⚡ Improvements
 
+- Improve WebSocket connection resiliency and error handling
+- Handle "ping" messages in WebSocket connections
 - Update deploy workflow to use environment variables for defaults
 
 ### 📋 All Changes
@@ -169,6 +171,8 @@ Released on 2025-05-18
 <details>
 <summary>View all changes</summary>
 
+- Improve WebSocket connection resiliency and error handling (1769129)
+- Handle "ping" messages in WebSocket connections (ac18c54)
 - Update deploy workflow to use environment variables for defaults (526db2b)
 - Add fallback release creation and repo initialization steps (af84f11)
 - Add GitHub Actions workflow for release and deployment (bd21f34)

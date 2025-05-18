@@ -3,7 +3,7 @@ layout: default
 title: ERS Agent Changelog
 ---
 
-## ERS Agent v1.0.3a
+## ERS Agent v1.0.4
 
 Released on 2025-05-18
 
@@ -13,6 +13,8 @@ Released on 2025-05-18
 
 ### ⚡ Improvements
 
+- Improve WebSocket connection resiliency and error handling
+- Handle "ping" messages in WebSocket connections
 - Update deploy workflow to use environment variables for defaults
 
 ### 📋 All Changes
@@ -20,6 +22,8 @@ Released on 2025-05-18
 <details>
 <summary>View all changes</summary>
 
+- Improve WebSocket connection resiliency and error handling (1769129)
+- Handle "ping" messages in WebSocket connections (ac18c54)
 - Update deploy workflow to use environment variables for defaults (526db2b)
 - Add fallback release creation and repo initialization steps (af84f11)
 - Add GitHub Actions workflow for release and deployment (bd21f34)

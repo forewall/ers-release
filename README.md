@@ -4,7 +4,7 @@ This repository hosts releases of the ERS Agent software.
 
 ## Latest Release
 
-The latest release is [v1.0.3a](https://github.com/forewall/ers-release/releases/tag/v1.0.3a).
+The latest release is [v1.0.4](https://github.com/forewall/ers-release/releases/tag/v1.0.4).
 
 ## Download
 
