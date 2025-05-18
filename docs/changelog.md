@@ -11,11 +11,16 @@ Released on 2025-05-18
 
 - Add fallback release creation and repo initialization steps
 
+### ⚡ Improvements
+
+- Update deploy workflow to use environment variables for defaults
+
 ### 📋 All Changes
 
 <details>
 <summary>View all changes</summary>
 
+- Update deploy workflow to use environment variables for defaults (526db2b)
 - Add fallback release creation and repo initialization steps (af84f11)
 - Add GitHub Actions workflow for release and deployment (bd21f34)
 - Update default branch detection in CI workflow (c5b76d3)
