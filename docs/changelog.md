@@ -3,13 +3,13 @@ layout: default
 title: ERS Agent Changelog
 ---
 
-## ERS Agent latest
+## ERS Agent v1.0.7
 
 Released on 2025-05-19
 
-### 🐛 Bug Fixes
+### 🚀 New Features
 
-- Rename workflow file to correct redundant extension
+- Add version checking and auto-upgrade functionality
 
 
 ## Installation

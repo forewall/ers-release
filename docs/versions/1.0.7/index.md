@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ERS Agent Downloads
+title: ERS Agent v1.0.7 Downloads
 ---
 
 # ERS Agent Downloads
