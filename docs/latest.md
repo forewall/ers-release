@@ -4,8 +4,8 @@ title: Latest ERS Agent Release
 permalink: /latest/
 ---
 
-<meta http-equiv="refresh" content="0;url=https://github.com/forewall/ers-release/releases/latest">
+# Latest ERS Agent Release
 
-# Redirecting to Latest Release
+The latest release is [v1.0.7](/).
 
-If you are not redirected automatically, [click here](https://github.com/forewall/ers-release/releases/latest).
+[Go to the latest release](/)
