@@ -3,13 +3,9 @@ layout: default
 title: ERS Agent Changelog
 ---
 
-## ERS Agent v1.0.8
+## ERS Agent v1.0.9
 
-Released on 2025-05-19
-
-### 🐛 Bug Fixes
-
-- Handle symlink resolution and directory checks more robustly
+Released on 2025-05-20
 
 
 ## Installation

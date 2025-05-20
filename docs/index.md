@@ -5,7 +5,7 @@ title: ERS Agent Downloads
 
 # ERS Agent Downloads
 
-Latest version: v1.0.8 (Released on 2025-05-19)
+Latest version: v1.0.9 (Released on 2025-05-20)
 
 ## Download ERS Agent for your platform
 
@@ -38,13 +38,9 @@ Visit the [Releases page](https://github.com/forewall/ers-release/releases) or [
 
 ## Release Notes
 
-## ERS Agent v1.0.8
+## ERS Agent v1.0.9
 
-Released on 2025-05-19
-
-### 🐛 Bug Fixes
-
-- Handle symlink resolution and directory checks more robustly
+Released on 2025-05-20
 
 
 ## Installation

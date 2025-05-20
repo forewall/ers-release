@@ -8,7 +8,7 @@ permalink: /all-versions/
 
 ## Latest Release
 
-The latest release is [v1.0.8](https://github.com/forewall/ers-release/releases/tag/v1.0.8).
+The latest release is [v1.0.9](https://github.com/forewall/ers-release/releases/tag/v1.0.9).
 
 You can always download the latest release from [the homepage](/) or directly from these links:
 
@@ -28,7 +28,8 @@ You can always download the latest release from [the homepage](/) or directly fr
 
 ## Specific Versions
 
-- [v1.0.8](https://github.com/forewall/ers-release/releases/tag/v1.0.8)
+- [v1.0.9](https://github.com/forewall/ers-release/releases/tag/v1.0.9)
 
+- [v1.0.8](https://github.com/forewall/ers-release/releases/tag/v1.0.8)
 - [v1.0.7](https://github.com/forewall/ers-release/releases/tag/v1.0.7)
 [View all releases on GitHub](https://github.com/forewall/ers-release/releases)
